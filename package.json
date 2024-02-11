@@ -1,0 +1,29 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "first webcrawler project",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Revan68/WebCrawler.git"
+  },
+  "keywords": [
+    "webcrawler"
+  ],
+  "author": "Revan68",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Revan68/WebCrawler/issues"
+  },
+  "homepage": "https://github.com/Revan68/WebCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
